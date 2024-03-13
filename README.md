@@ -14,4 +14,4 @@ Se reutilizar estes slides dê crédito a [Ruan Delgado Gomes](https://ruandg.gi
 
 ## Aulas
 
-Aula 01 - 
+[Apresentação da disciplina](https://github.com/ruandg/01_Redes_sem_Fio_ApresentacaoDisciplina)
